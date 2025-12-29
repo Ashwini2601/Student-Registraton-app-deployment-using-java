@@ -69,8 +69,8 @@
 
  2. Clone repository on local machine:
 
-    1. git clone https://github.com//Python-app-deployment-using-CICD-pipeline.git
-    2. cd Python-app-deployment-using-CICD-pipeline
+    1. git clone https://github.com/Ashwini2601/Student-Registraton-app-deployment-using-java.git
+    2. cd Student-Registraton-app-deployment-using-java
 
 ### Step 4: Create Jenkins Credentials
 1. Go to Manage Jenkins → Credentials → Global → Add Credentials
